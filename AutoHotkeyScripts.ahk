@@ -48,4 +48,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Alt::Return
 
 ; Para ctrl+esc sea ctrl+`
-^Esc::send ^``
+; ^Esc::send ^``
